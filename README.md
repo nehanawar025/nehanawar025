@@ -2,7 +2,12 @@
 
 ## I am Noshin Nawar Neha 😄
 
-🌱 I’m currently learning HTML , CSS(SCSS), JavaScript.
+🌱 I’m currently learning
+<ul>
+   <li>HTML 
+   <li>CSS(SCSS)
+   <li>JavaScript.
+</ul>
 <br>
 <br>
 <!--

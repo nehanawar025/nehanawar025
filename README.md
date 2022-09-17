@@ -1,6 +1,5 @@
-### Hi there 👋
+## Hi there 👋  I am Noshin Nawar Neha 😄
 
-## I am Noshin Nawar Neha 😄
 
 <div id="header" align="center" style=" background-image: linear-gradient(to right, red , yellow);">
   <img src="https://media4.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif?cid=790b76111dcb1b54471b22fe718ec039a87f6bfaf6d45e0a&rid=giphy.gif&ct=s" width="100"/>
@@ -61,6 +60,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehanawar025&show_icons=true&theme=synthwave)

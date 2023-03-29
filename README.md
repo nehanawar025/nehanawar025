@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 -->
 ## GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehanawar025&show_icons=true&theme=synthwave) <br>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nehanawar025&show_icons=true&theme=synthwave) <br>
 <img height="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nehanawar025&layout=compact&langs_count=8&theme=algolia"/>

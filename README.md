@@ -5,7 +5,7 @@
   <img src="https://media4.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif?cid=790b76111dcb1b54471b22fe718ec039a87f6bfaf6d45e0a&rid=giphy.gif&ct=s" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/neha-nawar-7b00bb226/">
+  <a href="https://www.linkedin.com/in/noshin-nawar-neha-7b00bb226/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   

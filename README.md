@@ -22,8 +22,8 @@
 
 
 ## Skills and Experience:
-🌱 I’m currently learning 
-<!--<ul>
+<!--🌱 I’m currently learning 
+<ul>
    <li>HTML 
    <li>CSS(SCSS)
    <li>JavaScript.

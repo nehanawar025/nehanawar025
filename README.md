@@ -63,6 +63,19 @@
 
 <br>
 
+## Projects I'm proud of! 😁
+- [EDA of Car Dataset](https://github.com/nehanawar025/Exploratory-Analysis-of-Car-Evaluation-Dataset-with-SQL) - a comprehensive analysis of the car evaluation dataset in <b>MySQL</b> that focuses on identifying patterns and trends across various attributes to gain data-driven insights.
+<br>
+<br>
+
+<!--
+- [The State of Chicago’s Taxis](https://public.tableau.com/app/profile/shuvo.saha3090/viz/ChicagoTripsVisualization/Story1) - A data story about the decline of Chicago’s taxis using 202 million taxi trips from Chicago open data; it was found that the roles of taxis are changing and they are now only used when ride sharing services are not convenient/expensive 
+- [Video Games: What Sells?](https://public.tableau.com/app/profile/shuvo.saha3090/viz/VGAnalysis/VGAnalysis) - A dive into what factors influence sales in the Video Game industry using 17k game reviews from Kaggle; it was found that review scores generally have no impact on game sales and game developers are likely to sell their games more when they develop M rated titles or games for Nintendo consoles 
+- [Retail Analytics Showcase](https://github.com/Shuvo-saha/Retail-Analytics-Showcase) - An interactive web-app that goes into the use cases of retail analytics such as product recommendations and churn prediction; this project also aims to teach and use various statistical techniques that are used in retail analytics such as collaborative filtering, decision trees, ensemble methods, k-means clustering and PCA
+- [Excel and Data Analy
+-->
+
+
 <!--
 **nehanawar025/nehanawar025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

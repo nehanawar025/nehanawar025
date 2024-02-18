@@ -66,7 +66,6 @@
 ## Projects I'm proud of! 😁
 - [EDA of Car Dataset](https://github.com/nehanawar025/Exploratory-Analysis-of-Car-Evaluation-Dataset-with-SQL) - A comprehensive analysis of the car evaluation dataset in <b>MySQL</b> that focuses on identifying patterns and trends across various attributes to gain data-driven insights.
 <br>
-<br>
 
 <!--
 - [The State of Chicago’s Taxis](https://public.tableau.com/app/profile/shuvo.saha3090/viz/ChicagoTripsVisualization/Story1) - A data story about the decline of Chicago’s taxis using 202 million taxi trips from Chicago open data; it was found that the roles of taxis are changing and they are now only used when ride sharing services are not convenient/expensive 
@@ -92,5 +91,5 @@ Here are some ideas to get you started:
 -->
 ## GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nehanawar025&show_icons=true&theme=synthwave) <br>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nehanawar025&show_icons=true&theme=synthwave) <br><br>
 <img height="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nehanawar025&layout=compact&langs_count=8&theme=algolia"/>

@@ -70,7 +70,10 @@
 
 ## Projects I'm proud of! 😁
 - [EDA of Car Dataset](https://github.com/nehanawar025/Exploratory-Analysis-of-Car-Evaluation-Dataset-with-SQL) - A comprehensive analysis of the car evaluation dataset in <b>MySQL</b> that focuses on identifying patterns and trends across various attributes to gain data-driven insights.
+
+- [Netflix Content - Tableau Dashboard](https://github.com/nehanawar025/Netflix-Dashboard-Tableau) - A comprehensive analysis of Netflix's content library using Tableau and Python, focusing on genre trends, content types, global distribution, and growth patterns to gain data-driven insights.
 <br>
+
 
 <!--
 - [The State of Chicago’s Taxis](https://public.tableau.com/app/profile/shuvo.saha3090/viz/ChicagoTripsVisualization/Story1) - A data story about the decline of Chicago’s taxis using 202 million taxi trips from Chicago open data; it was found that the roles of taxis are changing and they are now only used when ride sharing services are not convenient/expensive 

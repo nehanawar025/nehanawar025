@@ -1,9 +1,7 @@
 ## Hi there 👋  I am Noshin Nawar Neha 😄
 
 
-<div id="header" align="center" style=" background-image: linear-gradient(to right, red , yellow);">
-  <img src="https://media4.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif?cid=790b76111dcb1b54471b22fe718ec039a87f6bfaf6d45e0a&rid=giphy.gif&ct=s" width="100"/>
-</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/noshin-nawar-neha-7b00bb226/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,6 +18,13 @@
 </div>
 
 
+
+<br>
+<p>I'm a computer engineer on a quest to dive deep into the world of data.</p>
+- 🌱 I’m currently learning data visualization tools and, more importantly, best practices from the larger data visualization community. 
+<br>
+<br>
+<p>Always eager to connect, collaborate, and create data-driven innovations. Let's turn data into actionable insights!</p>
 
 ## Skills and Experience:
 <!--🌱 I’m currently learning 

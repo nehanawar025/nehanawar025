@@ -75,6 +75,8 @@
 - [EDA of Car Dataset - MySQL](https://github.com/nehanawar025/Exploratory-Analysis-of-Car-Evaluation-Dataset-with-SQL) - A comprehensive analysis of the car evaluation dataset in <b>MySQL</b> that focuses on identifying patterns and trends across various attributes to gain data-driven insights.
 
 - [Netflix Content - Tableau Dashboard](https://github.com/nehanawar025/Netflix-Dashboard-Tableau) - A comprehensive analysis of Netflix's content library using Tableau and Python, focusing on genre trends, content types, global distribution, and growth patterns to gain data-driven insights.
+  
+- [Store Sales Dashboard](https://github.com/nehanawar025/Sales_Dasboard) - This Power BI Sales Dashboard presents key metrics, including total sales, quantity, sales by year, and performance by province, with a comparison of YoY%. It offers valuable insights to support growth strategies.
 
 
 <!--

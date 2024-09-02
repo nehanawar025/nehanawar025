@@ -75,10 +75,11 @@
 - [Netflix Content - Tableau Dashboard](https://github.com/nehanawar025/Netflix-Dashboard-Tableau) - A comprehensive analysis of Netflix's content library using Tableau and Python, focusing on genre trends, content types, global distribution, and growth patterns to gain data-driven insights.
   
 - [Store Sales Dashboard](https://github.com/nehanawar025/Sales_Dasboard) - This Power BI Sales Dashboard presents key metrics, including total sales, quantity, sales by year, and performance by province, with a comparison of YoY%. It offers valuable insights to support growth strategies.
-
+<br><br>
 ## ⚡ Learning Projects
 - [EDA of Car Dataset - MySQL](https://github.com/nehanawar025/Exploratory-Analysis-of-Car-Evaluation-Dataset-with-SQL) - A comprehensive analysis of the car evaluation dataset in <b>MySQL</b> that focuses on identifying patterns and trends across various attributes to gain data-driven insights.
 
+<br>
 <!--
 - [The State of Chicago’s Taxis](https://public.tableau.com/app/profile/shuvo.saha3090/viz/ChicagoTripsVisualization/Story1) - A data story about the decline of Chicago’s taxis using 202 million taxi trips from Chicago open data; it was found that the roles of taxis are changing and they are now only used when ride sharing services are not convenient/expensive 
 - [Video Games: What Sells?](https://public.tableau.com/app/profile/shuvo.saha3090/viz/VGAnalysis/VGAnalysis) - A dive into what factors influence sales in the Video Game industry using 17k game reviews from Kaggle; it was found that review scores generally have no impact on game sales and game developers are likely to sell their games more when they develop M rated titles or games for Nintendo consoles 

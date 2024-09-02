@@ -20,7 +20,7 @@
 
 
 <br>
-<p>I'm a computer engineer on a quest to dive deep into the world of data.</p>
+<p>I'm a computer engineer graduate who finally discovered the passion in the world of data.".</p>
 - 🌱 I’m currently learning Polars, Plotly, Google BigQuery, data visualization tools, and more importantly, best practices of data storytelling from the larger data community. 
 <br>
 <br>

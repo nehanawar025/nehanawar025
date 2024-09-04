@@ -3,6 +3,9 @@
 
 
 <div id="badges" align="center">
+  <a href="https://nehanawar025.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge" alt="Portfolio Badge">
+  </a>
   <a href="https://www.linkedin.com/in/noshin-nawar-neha/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

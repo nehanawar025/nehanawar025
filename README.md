@@ -13,6 +13,10 @@
   <a href="https://twitter.com/noshin_nnn">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
+  <a href="https://amethyst-madalena-54.tiiny.site">
+  <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge" alt="Resume Badge">
+  </a>
 </a>
 
 </div>

@@ -20,6 +20,10 @@
   <a href="https://amethyst-madalena-54.tiiny.site">
   <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge" alt="Resume Badge">
   </a>
+
+  <a href="https://www.kaggle.com/nehanawar">
+  <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge" alt="Kaggle Badge">
+  </a>
 </a>
 
 </div>

@@ -27,8 +27,8 @@
 
 
 <br>
-<p>I'm a computer engineer graduate who finally discovered the passion in the world of data.</p>
-- 🌱 I’m currently learning Polars, Plotly, Google BigQuery, data visualization tools, and more importantly, best practices of data storytelling from the larger data community. 
+<p>I'm a computer engineer graduate who finally discovered my passion for data.</p>
+- 🌱 I’m currently learning Polars, Plotly, Google BigQuery, data visualization tools, and more importantly, best practices of data storytelling from the larger data community. Last but not least, I am an NLP enthusiast.
 <br>
 <br>
 <p>Always eager to connect, collaborate, and create data-driven innovations. Let's turn data into actionable insights!</p>
@@ -77,12 +77,16 @@
 
 ## 😁 Projects I'm proud of! 
 - [Finding Airbnb - MySQL](https://medium.com/learning-data/an-exploratory-data-analysis-using-mysql-to-find-the-perfect-airbnb-1aaba2b02b9b) - A comprehensive analysis of 
- Airbnb listings using MySQL narrowed down the list from 13,759 to just 15 listings while reducing the budget by up to €500 from the initially set amount.
+ Airbnb listings using <b>MySQL</b> narrowed the list from 13,759 to just 15 listings while reducing the budget by up to €500 from the initially set amount.
 
-- [Netflix Content - Tableau Dashboard](https://github.com/nehanawar025/Netflix-Dashboard-Tableau) - A comprehensive analysis of Netflix's content library using Tableau and Python, focusing on genre trends, content types, global distribution, and growth patterns to gain data-driven insights.
+- [Netflix Content - Tableau Dashboard](https://github.com/nehanawar025/Netflix-Dashboard-Tableau) - A comprehensive analysis of Netflix's content library using <b>Tableau</b> and <b>Python</b>, focusing on genre trends, content types, global distribution, and growth patterns to gain data-driven insights.
   
-- [Store Sales Dashboard](https://github.com/nehanawar025/Sales_Dasboard) - This Power BI Sales Dashboard presents key metrics, including total sales, quantity, sales by year, and performance by province, with a comparison of YoY%. It offers valuable insights to support growth strategies.
+- [Store Sales Dashboard](https://github.com/nehanawar025/Sales_Dasboard) - This <b>Power BI</b> Sales Dashboard presents key metrics, including total sales, quantity, sales by year, and performance by province, with a comparison of YoY%. It offers valuable insights to support growth strategies.
+
+- [Black Friday Sales Analysis](https://github.com/nehanawar025/EDA-BLACK-FRIDAY-SALES) - This project provided actionable insights into key age groups and popular product categories, helping the company modify marketing strategies and boost revenue. I used <b>Polars</b> library for analysis and <b>Plotly Express</b>, a Python package for visualization.
+
 <br><br>
+
 ## ⚡ Learning Projects
 - [EDA of Car Dataset - MySQL](https://github.com/nehanawar025/Exploratory-Analysis-of-Car-Evaluation-Dataset-with-SQL) - A comprehensive analysis of the car evaluation dataset in <b>MySQL</b> that focuses on identifying patterns and trends across various attributes to gain data-driven insights.
 

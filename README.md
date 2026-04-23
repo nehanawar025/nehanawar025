@@ -1,7 +1,6 @@
 ## Hi there 👋  I am Noshin Nawar Neha 😄
 
-
-
+<br>
 <div id="badges" align="center">
   <a href="https://nehanawar025.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge" alt="Portfolio Badge">
@@ -45,25 +44,22 @@
    <li>JavaScript.
 </ul>-->
 
-<div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="47" height="47"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="45" height="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45"/>
-          
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" />
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" />
-  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
-                  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="55" height="55" />
-          
-  
+<p style="white-space: nowrap;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" />&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="50" height="50" />&nbsp;         
+</p>
 <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -75,7 +71,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;-->
   
-</div>
+
 
 <br>
 
@@ -89,20 +85,18 @@
 
 - [Black Friday Sales Analysis](https://github.com/nehanawar025/EDA-BLACK-FRIDAY-SALES) - This project provided actionable insights into key age groups and popular product categories, helping the company modify marketing strategies and boost revenue. I used <b>Polars</b> library for analysis and <b>Plotly Express</b>, a Python package for visualization.
 
-<br><br>
+<br>
 
+<!--
 ## ⚡ Learning Projects
 - [EDA of Car Dataset - MySQL](https://github.com/nehanawar025/Exploratory-Analysis-of-Car-Evaluation-Dataset-with-SQL) - A comprehensive analysis of the car evaluation dataset in <b>MySQL</b> that focuses on identifying patterns and trends across various attributes to gain data-driven insights.
-
-<br>
+-->
 <!--
 - [The State of Chicago’s Taxis](https://public.tableau.com/app/profile/shuvo.saha3090/viz/ChicagoTripsVisualization/Story1) - A data story about the decline of Chicago’s taxis using 202 million taxi trips from Chicago open data; it was found that the roles of taxis are changing and they are now only used when ride sharing services are not convenient/expensive 
 - [Video Games: What Sells?](https://public.tableau.com/app/profile/shuvo.saha3090/viz/VGAnalysis/VGAnalysis) - A dive into what factors influence sales in the Video Game industry using 17k game reviews from Kaggle; it was found that review scores generally have no impact on game sales and game developers are likely to sell their games more when they develop M rated titles or games for Nintendo consoles 
 - [Retail Analytics Showcase](https://github.com/Shuvo-saha/Retail-Analytics-Showcase) - An interactive web-app that goes into the use cases of retail analytics such as product recommendations and churn prediction; this project also aims to teach and use various statistical techniques that are used in retail analytics such as collaborative filtering, decision trees, ensemble methods, k-means clustering and PCA
 - [Excel and Data Analy
 -->
-
-
 <!--
 **nehanawar025/nehanawar025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

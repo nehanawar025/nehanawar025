@@ -31,7 +31,7 @@
 
 <br>
 <p>I'm a computer engineer graduate who finally discovered my passion for data.</p>
-- 🌱 I’m currently learning Polars, Plotly, Google BigQuery, data visualization tools, and more importantly, best practices of data storytelling from the larger data community. Last but not least, I am an NLP enthusiast.
+- 🌱 I’m currently learning FastAPI, RAG, LLM, and AI automation. I am also actively learning about system design.
 <br>
 <br>
 <p>Always eager to connect, collaborate, and create data-driven innovations. Let's turn data into actionable insights!</p>
@@ -49,6 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" width="50" height="50"/>&nbsp;
